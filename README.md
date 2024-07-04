@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/AutoFixtureCustomizationsDemo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimenux/AutoFixtureCustomizationsDemo/actions/workflows/ci.yml)
+
 # AutoFixtureCustomizationsDemo
 ```
 Using AutoFixture customizations

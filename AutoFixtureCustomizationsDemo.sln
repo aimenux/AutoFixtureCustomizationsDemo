@@ -30,6 +30,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{EA5C515F
 		global.json = global.json
 		.gitignore = .gitignore
 		README.md = README.md
+		.github\workflows\ci.yml = .github\workflows\ci.yml
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example05", "src\Example05\Example05.csproj", "{AAB4ECF8-9152-4FCC-A8AC-98A0229A36FF}"
